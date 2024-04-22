@@ -1,2 +1,2 @@
 # RepositorioHenry
-Repositorio para el C2 henry
+Aquí encontrarás todos los ejercicios y homeworks del curso de Henry.
